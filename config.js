@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: '4chan',
-			icon: '4chan',
+			icon: 'https://files.catbox.moe/g436yn.png',
 			link: 'https://4chan.org',
 		},
 		{
